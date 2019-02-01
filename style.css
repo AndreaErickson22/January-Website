@@ -1,0 +1,65 @@
+main {
+  background-image: url("https://scontent.fboi1-1.fna.fbcdn.net/v/t1.0-9/11898641_10152959437968204_8719617103221243988_n.jpg?_nc_cat=104&_nc_ht=scontent.fboi1-1.fna&oh=533e8f865876ec83229d6e40d599ca19&oe=5CEAE301");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 40px;
+}
+h1 { 
+  padding-top: 50px;
+  text-align: center;
+  color: white;
+  text-shadow: 1px 1px black;
+}
+h2 { 
+  text-align: center;
+  color: white;
+  font-size: 14pt;
+  padding-left: 90px;
+  padding-right: 90px;
+  text-shadow: 1px 1px black;
+}
+.nav-pills {
+  text-align: center;
+}
+h3 { 
+  text-align: center;
+  color: white;
+  font-size: 14pt;
+  padding-left: 90px;
+  padding-right: 90px;
+  text-shadow: 1px 1px black;
+}
+/* <!--Top Section Ends Here--> */
+
+.solid-color {
+  background-color:rgb(224, 60, 19);
+  padding: 80px;
+}
+h4 {
+  color: black;
+}
+.gutter {
+  padding-left: 15;
+}
+/* <!--Next Section Ends Here--> */
+.charlie {
+  background-color: rgb(218, 216, 216);
+   padding: 808px;
+}
+.map {
+  background-image: url("./Hawaii_map.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 20vh;
+
+}
+
+  .bg-black {
+    background-color: black;
+    color: white;
+    padding-top: 15px;
+    
+  }
+  
